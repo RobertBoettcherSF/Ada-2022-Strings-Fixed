@@ -1,0 +1,7 @@
+# Strings.Fixed in Ada 2022
+
+Teaching sheet. No SPARK. Wave 17.
+
+```bash
+make && make test
+```
